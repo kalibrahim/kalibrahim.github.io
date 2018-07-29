@@ -5,12 +5,12 @@ description:      A website where I share my porjects, blogs and resume
 disqus_shortname:
 reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
-logo:             # images/logo.png # logo visible in the topbar
+logo:              images/icons8-code-fork-100.png # logo visible in the topbar
 excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: https://kalibrahim.github.io/
+url: https://kalibrahim.github.io
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -20,12 +20,10 @@ url: https://kalibrahim.github.io/
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
   - title: 'Tags'
     url: '/tags'
+  - title: 'Notebook'
+    url: '/finding_donors.html'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
@@ -51,7 +49,7 @@ owner:
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
-twitter:
+twitter: 
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
@@ -59,11 +57,10 @@ social:
     url: "https://github.com/kalibrahim"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/kalibrah/"
-  # - title: "youtube"
-  #  url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+
 
 # Background image to be tiled on all pages
-background: images/franki-chamaki-682112-unsplash.jpg
+background: images/paul-frenzel-159408-unsplash.jpg
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-122986975-1
