@@ -1,4 +1,4 @@
-# [Neo-HPSTR Jekyll Theme](http://aronbordin.com/neo-hpstr-jekyll-theme)
+# [My Portfolio on GitHub Pages](https://kalibrahim.github.io/)
 [![Gem Version](https://badge.fury.io/rb/neo-hpstr-jekyll-theme.svg)](https://badge.fury.io/rb/neo-hpstr-jekyll-theme)
 
 

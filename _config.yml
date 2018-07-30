@@ -20,8 +20,6 @@ url: https://kalibrahim.github.io
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Tags'
-    url: '/tags'
   - title: 'Projects'
     url: '/projects'
   - title: 'Categories'
@@ -29,6 +27,8 @@ menu:
     type: 'categories'
   - title: 'Resume'
     url: '/resume'
+  - title: 'Tags'
+    url: '/tags'  
     #submenu:
     #  - title: 'Code Highlighter'
     #    url: '/intro/code-highlighting-post/'

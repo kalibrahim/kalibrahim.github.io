@@ -4,7 +4,7 @@ title: First Blog Post
 description: "This is my first blog post, I'll be explaining what this website is all about"
 modified: 2018-07-29
 tags: [blog]
-categories: [intro]
+categories: [Blog]
 image:
     feature: franki-chamaki-694946-unsplash.jpg
     credit:  Franki Chamaki on Unsplash
