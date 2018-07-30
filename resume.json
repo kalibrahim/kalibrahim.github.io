@@ -1,0 +1,237 @@
+{
+  "basics": {
+    "name": "Khalid Al Ibrahim",
+    "label": "Graduate Developee - Data Scientist",
+    "picture": "https://media.licdn.com/dms/image/C5103AQHq8KtSNYKzKA/profile-displayphoto-shrink_200_200/0?e=1538006400&v=beta&t=ig_5IL8azV1ZQFpsrSrXv3O7VpI8wD5EsSEXKWLd1Hc",
+    "email": "kalibrahim94@gmail.com",
+    "phone": "+974 50060038",
+    "website": "https://kalibrahim.github.io/",
+    "summary": "Recent graduate from W.P. Carey school of business at Arizona State University, with Computer Information Systems major and Data Analytics certificate. His passion for technology drives him to learn, create and innovate. Khalid is always looking for a new challenge to take on, whether its learning a new language, creating a new app or even exploring new hobbies.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Doha",
+      "countryCode": "",
+      "region": "Qatar"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "kalibrahim",
+        "url": "https://www.linkedin.com/in/kalibrah/"
+      },
+      {
+        "network": "GitHub",
+        "username": "kalibrahim",
+        "url": "https://github.com/kalibrahim/"
+      },
+      {
+        "network": "Twitter",
+        "username": "@KhalidAlIbrahi5",
+        "url": "https://twitter.com/KhalidAlIbrahi5"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Qatar Airways",
+      "position": "Graduate Developee",
+      "website": "qatarairways.com",
+      "startDate": "2018-04",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Unlimited Potential",
+      "position": "IT Support Analyst",
+      "website": "unlimitedpotentialaz.org",
+      "startDate": "2015-12",
+      "endDate": "2017-09",
+      "summary": "",
+      "highlights": [
+        "Planned and managed the upgrade of Microsoft Windows XP/ Vista and Office 2003 to Windows 10 and Office 2017.",
+        "Fully implemented all IT requirements for new classrooms to include network connectivity.",
+        "Enhanced G Suite for nonprofits use by arranging educational meeting for key organization members."
+      ]
+    },
+    {
+      "company": "Qatar Airways",
+      "position": "Database Developer",
+      "website": "qatarairways.com",
+      "startDate": "2016-06",
+      "endDate": "2016-08",
+      "summary": "",
+      "highlights": [
+        "Collaborated with 4 other interns to design solutions towards increasing productivity for the IT Cyber Security team, by creating a case management system to archive security threats.",
+        "Assisted project manager by planning a Gantt Chart for the project to meet project deadlines",
+        "Designed and developed the case management system database using PostgreSQL and implemented ",
+        "Hosted the front-end and back-end of the case management system on Amazon Web Services, allowing a collaborative testing and feedback for the alpha phase."
+      ]
+    },
+    {
+      "company": "Qatar Airways",
+      "position": "Insight Analyst",
+      "website": "qatarairways.com",
+      "startDate": "2015-05",
+      "endDate": "2015-08",
+      "summary": "",
+      "highlights": [
+        "Thoroughly perform research and analysis on local and international sales data for “Galaxy” software project to assess overall impact of business opportunity, resulting in 3% total increase in sales.",
+        "Generated reports based on selected regions tracking performance of managers and their associates.",
+        "Established collaborative relationships with Learning and Development team to ensure that all needs are met towards developing an E-Course for “Galaxy” software project. ",
+        "Assisted in testing “Galaxy” software project, attaining a sooner release date for beta stage."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Reach Out To Asia",
+      "position": "Volunteer",
+      "website": "https://www.reachouttoasia.org/",
+      "startDate": "2012-08",
+      "endDate": "2012-09",
+      "summary": "House Renvations",
+      "highlights": []
+    },
+    {
+      "organization": "Qatar Foundation International",
+      "position": "Ambassador",
+      "website": "https://www.qfi.org/",
+      "startDate": "2011-05",
+      "endDate": "2011-06",
+      "summary": "Service learning and leadership program.",
+      "highlights": []
+    },
+    {
+      "organization": "Qatar Foundation",
+      "position": "Volunteer",
+      "website": "https://www.qf.org.qa/",
+      "startDate": "2011-04",
+      "endDate": "2011-05",
+      "summary": "World book week: Managing book fair floor and assisting in product planogram",
+      "highlights": []
+    },
+    {
+      "organization": "Museum of Islamic Art",
+      "position": "Volunteer",
+      "website": "http://www.mia.org.qa/en/",
+      "startDate": "2011-10",
+      "endDate": "2011-11",
+      "summary": "Cai Guo Qiang Gunpowder Drawing Project: Artist Assistant.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Arizona State University",
+      "area": "Computer Information Systems",
+      "studyType": "Bachelor Of Science",
+      "startDate": "2013-01",
+      "endDate": "2017-12",
+      "gpa": "3.2",
+      "courses": [
+        "CIS 340 - Business Info Systems Development I",
+        "CIS 365 - Business Database Systems",
+        "CIS 345 -  Business Info Systems Development II",
+        "CIS 430 - Networks/Distributed Systems",
+        "CIS 425 - Electronic Commerce Strategy",
+        "CIS 440 - Capstone in Information System"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2016",
+      "awarder": "WP Carey School Of Business, Arizona State University",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ReactJS",
+        "Jekyll ",
+        "JSON",
+        "jQuery",
+        ".NET"
+      ]
+    },
+    {
+      "name": "Computational",
+      "level": "Master",
+      "keywords": [
+        "Amazon Web Services",
+        "Excel",
+        "Adobe Illustrator",
+        "VBA",
+        "Agile"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "Intermediate",
+      "keywords": [
+        "Python",
+        "R / RStudio",
+        "Machine Learning",
+        "Deep Learning",
+        "Tensorflow",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Intermediate",
+      "keywords": [
+        "Swift",
+        "Objective-C",
+        "C#"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Master",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "NoSQL",
+        "MS SQL Server",
+        "Firebase"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Snowboarding",
+        "Surfing",
+        "MMA"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Phil Simon",
+      "reference": "Khalid is one of the most talented students ever to have graced my class. His ability to learn and incorporate new technologies and programming languages is stunning. Affable and humble, I wish that all students possessed his work ethic."
+    }
+  ]
+}
