@@ -64,14 +64,6 @@
 
 
 
-
-<style type="text/css">
-    body {
-        background-image:url();
-    }
-</style>
-
-
 </head>
 
 <body id="page">
@@ -81,6 +73,8 @@
 
 
 <div class="header-menu header-menu-top">
+<div id="rainbow-progress-bar"></div>
+
     <ul class="header-item-container">
       <li class="header-item-title header-toggle "><a href="#menu"><h2><i class="fa fa-bars"></i></h2></a></li>
       <li class="header-item-title">
@@ -195,6 +189,12 @@
     
   </ul>
 </nav>
+<script type="text/javascript">
+ let progressBar = document.querySelector("#rainbow-progress-bar"); window.onload = function() { 
+   progressBar.style.display
+    = 'none'; 
+  };
+</script>
 
 
   <a href="https://twitter.com/KhalidAlIbrahi5" class="btn btn-info button-twitter" data-show-count="false" data-size="large"><i class="fa fa-twitter"></i> <span> | Follow @KhalidAlIbrahi5</span></a>

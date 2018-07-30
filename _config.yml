@@ -60,7 +60,7 @@ social:
 
 
 # Background image to be tiled on all pages
-background: images/paul-frenzel-159408-unsplash.jpg
+background: 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-122986975-1
