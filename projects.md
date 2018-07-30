@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Data Science Projects"
 description: "All of my Juypter Notebook Projects"
 tags: [Python, Projects, Data Science, Jupyter Notebook]
