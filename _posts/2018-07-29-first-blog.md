@@ -20,14 +20,16 @@ image:
 
 This website will include all of my **Data Science** projects
 
-![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
+<!---
+ ![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
 {: .image-right}
 
 *This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
 
 HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
 
-If you want to show just a part of your post in the come page, add the ``<!-- more -->`` tag to your post content. Everything after this tag will be hidden from the page listing page.
+
+If you want to show just a part of your post in the come page, add the  tag to your post content. Everything after this tag will be hidden from the page listing page.
 
 ### Blockquotes
 
@@ -106,3 +108,5 @@ image:
 {% endhighlight %}
 
 The image must be in the ``/images`` folder.
+
+-->
