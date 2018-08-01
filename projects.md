@@ -19,7 +19,7 @@ image:
 [Click here to view GitHub Repo](https://github.com/kalibrahim/findingDonorsML)
 
 ### Predicting Boston Housing Prices:
-[Jupyter Notebook](/)
+[Jupyter Notebook](/boston_housing.html)
 
 [Click here to view GitHub Repo](https://github.com/kalibrahim/boston_housing)
 ### Project: 
